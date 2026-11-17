@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/nav_listas"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/nav_listas" />
+    <item
+        android:id="@+id/nav_compras"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="@string/nav_compras" />
+    <item
+        android:id="@+id/nav_categorias"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/nav_categorias"
+        android:visible="false" />
+    <item
+        android:id="@+id/nav_escanear"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/nav_escanear" />
+    <item
+        android:id="@+id/nav_despesas"
+        android:icon="@android:drawable/ic_menu_month"
+        android:title="@string/nav_despesas" />
+</menu>

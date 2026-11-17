@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23067361688",
+    "project_id": "market-lists-1",
+    "storage_bucket": "market-lists-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23067361688:android:b8a8fa6a7b3f9656b1abed",
+        "android_client_info": {
+          "package_name": "com.LuccasAlmeida.marketlists"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_qTTCUHhKvN43SuCgApcJterlhg02_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

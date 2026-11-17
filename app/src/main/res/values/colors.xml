@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#faae02</color>
+    <color name="colorPrimaryDark">#faae02</color>
+    <color name="colorAccent">#faae02</color>
+
+    <color name="color_disponivel">#1976D2</color>
+    <color name="color_em_breve">#FFB300</color>
+
+    <color name="background">#ff403b</color>
+    <color name="shadow">#FF2520</color>
+    <color name="highlight">#FF6E6B</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="Dark">#191a1e</color>
+    <color name="light_white">#4DFFFFFF</color>
+</resources>

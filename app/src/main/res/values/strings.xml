@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Market Lists</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_listas">Minhas Listas</string>
+    <string name="nav_meus_itens">Meus Itens</string>
+    <string name="nav_categorias">Categorias</string>
+    <string name="nav_escanear">Escanear Nota</string>
+    <string name="nav_despesas">Despesas</string>
+    <string name="nav_compras">Minhas Compras</string>
+    <string name="criar_lista">Criar Lista</string>
+</resources>
